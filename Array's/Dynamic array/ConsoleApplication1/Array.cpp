@@ -27,4 +27,7 @@ void sumElemArray(int* arr, int size)
 	std::cout << "\n sum: " << result;
 
 	//test changed
+
+
+	//test changed  2
 }
